@@ -36,6 +36,6 @@ export async function getTagValues(tag, tagType) {
         throw new Error(`${tag} is not a tag`);
 
     const path = tag.slice(1).replace(/^minecraft:/, "");
-    const tagJson = await fetch(`../data/tags/${tagType}/${path}.json`).then(r => r.json());
+    const tagJson = await fetch(`../data/tag/${tagType}/${path}.json`).then(r => r.json());
     return tagJson.values;
 }
