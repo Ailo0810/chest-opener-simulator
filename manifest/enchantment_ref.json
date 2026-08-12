@@ -1,0 +1,174 @@
+[
+    {
+        "path": "data/enchantment/aqua_affinity.json",
+        "id": "minecraft:aqua_affinity"
+    },
+    {
+        "path": "data/enchantment/bane_of_arthropods.json",
+        "id": "minecraft:bane_of_arthropods"
+    },
+    {
+        "path": "data/enchantment/binding_curse.json",
+        "id": "minecraft:binding_curse"
+    },
+    {
+        "path": "data/enchantment/blast_protection.json",
+        "id": "minecraft:blast_protection"
+    },
+    {
+        "path": "data/enchantment/breach.json",
+        "id": "minecraft:breach"
+    },
+    {
+        "path": "data/enchantment/channeling.json",
+        "id": "minecraft:channeling"
+    },
+    {
+        "path": "data/enchantment/density.json",
+        "id": "minecraft:density"
+    },
+    {
+        "path": "data/enchantment/depth_strider.json",
+        "id": "minecraft:depth_strider"
+    },
+    {
+        "path": "data/enchantment/efficiency.json",
+        "id": "minecraft:efficiency"
+    },
+    {
+        "path": "data/enchantment/feather_falling.json",
+        "id": "minecraft:feather_falling"
+    },
+    {
+        "path": "data/enchantment/fire_aspect.json",
+        "id": "minecraft:fire_aspect"
+    },
+    {
+        "path": "data/enchantment/fire_protection.json",
+        "id": "minecraft:fire_protection"
+    },
+    {
+        "path": "data/enchantment/flame.json",
+        "id": "minecraft:flame"
+    },
+    {
+        "path": "data/enchantment/fortune.json",
+        "id": "minecraft:fortune"
+    },
+    {
+        "path": "data/enchantment/frost_walker.json",
+        "id": "minecraft:frost_walker"
+    },
+    {
+        "path": "data/enchantment/impaling.json",
+        "id": "minecraft:impaling"
+    },
+    {
+        "path": "data/enchantment/infinity.json",
+        "id": "minecraft:infinity"
+    },
+    {
+        "path": "data/enchantment/knockback.json",
+        "id": "minecraft:knockback"
+    },
+    {
+        "path": "data/enchantment/looting.json",
+        "id": "minecraft:looting"
+    },
+    {
+        "path": "data/enchantment/loyalty.json",
+        "id": "minecraft:loyalty"
+    },
+    {
+        "path": "data/enchantment/luck_of_the_sea.json",
+        "id": "minecraft:luck_of_the_sea"
+    },
+    {
+        "path": "data/enchantment/lunge.json",
+        "id": "minecraft:lunge"
+    },
+    {
+        "path": "data/enchantment/lure.json",
+        "id": "minecraft:lure"
+    },
+    {
+        "path": "data/enchantment/mending.json",
+        "id": "minecraft:mending"
+    },
+    {
+        "path": "data/enchantment/multishot.json",
+        "id": "minecraft:multishot"
+    },
+    {
+        "path": "data/enchantment/piercing.json",
+        "id": "minecraft:piercing"
+    },
+    {
+        "path": "data/enchantment/power.json",
+        "id": "minecraft:power"
+    },
+    {
+        "path": "data/enchantment/projectile_protection.json",
+        "id": "minecraft:projectile_protection"
+    },
+    {
+        "path": "data/enchantment/protection.json",
+        "id": "minecraft:protection"
+    },
+    {
+        "path": "data/enchantment/punch.json",
+        "id": "minecraft:punch"
+    },
+    {
+        "path": "data/enchantment/quick_charge.json",
+        "id": "minecraft:quick_charge"
+    },
+    {
+        "path": "data/enchantment/respiration.json",
+        "id": "minecraft:respiration"
+    },
+    {
+        "path": "data/enchantment/riptide.json",
+        "id": "minecraft:riptide"
+    },
+    {
+        "path": "data/enchantment/sharpness.json",
+        "id": "minecraft:sharpness"
+    },
+    {
+        "path": "data/enchantment/silk_touch.json",
+        "id": "minecraft:silk_touch"
+    },
+    {
+        "path": "data/enchantment/smite.json",
+        "id": "minecraft:smite"
+    },
+    {
+        "path": "data/enchantment/soul_speed.json",
+        "id": "minecraft:soul_speed"
+    },
+    {
+        "path": "data/enchantment/sweeping_edge.json",
+        "id": "minecraft:sweeping_edge"
+    },
+    {
+        "path": "data/enchantment/swift_sneak.json",
+        "id": "minecraft:swift_sneak"
+    },
+    {
+        "path": "data/enchantment/thorns.json",
+        "id": "minecraft:thorns"
+    },
+    {
+        "path": "data/enchantment/unbreaking.json",
+        "id": "minecraft:unbreaking"
+    },
+    {
+        "path": "data/enchantment/vanishing_curse.json",
+        "id": "minecraft:vanishing_curse"
+    },
+    {
+        "path": "data/enchantment/wind_burst.json",
+        "id": "minecraft:wind_burst"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "path": "data/loot_table/ancient_city.json",
+        "name": "Ancient City",
+        "id": "ancient_city"
+    },
+    {
+        "path": "data/loot_table/bastion_bridge.json",
+        "name": "Bastion Bridge",
+        "id": "bastion_bridge"
+    },
+    {
+        "path": "data/loot_table/bastion_hoglin_stable.json",
+        "name": "Bastion Hoglin Stable",
+        "id": "bastion_hoglin_stable"
+    },
+    {
+        "path": "data/loot_table/bastion_other.json",
+        "name": "Bastion Other",
+        "id": "bastion_other"
+    },
+    {
+        "path": "data/loot_table/bastion_treasure.json",
+        "name": "Bastion Treasure",
+        "id": "bastion_treasure"
+    },
+    {
+        "path": "data/loot_table/buried_treasure.json",
+        "name": "Buried Treasure",
+        "id": "buried_treasure"
+    },
+    {
+        "path": "data/loot_table/desert_pyramid.json",
+        "name": "Desert Pyramid",
+        "id": "desert_pyramid"
+    },
+    {
+        "path": "data/loot_table/end_city_treasure.json",
+        "name": "End City Treasure",
+        "id": "end_city_treasure"
+    },
+    {
+        "path": "data/loot_table/jungle_temple.json",
+        "name": "Jungle Temple",
+        "id": "jungle_temple"
+    },
+    {
+        "path": "data/loot_table/nether_bridge.json",
+        "name": "Nether Bridge",
+        "id": "nether_bridge"
+    },
+    {
+        "path": "data/loot_table/pillager_outpost.json",
+        "name": "Pillager Outpost",
+        "id": "pillager_outpost"
+    },
+    {
+        "path": "data/loot_table/ruined_portal.json",
+        "name": "Ruined Portal",
+        "id": "ruined_portal"
+    },
+    {
+        "path": "data/loot_table/shipwreck_map.json",
+        "name": "Shipwreck Map",
+        "id": "shipwreck_map"
+    },
+    {
+        "path": "data/loot_table/shipwreck_supply.json",
+        "name": "Shipwreck Supply",
+        "id": "shipwreck_supply"
+    },
+    {
+        "path": "data/loot_table/shipwreck_treasure.json",
+        "name": "Shipwreck Treasure",
+        "id": "shipwreck_treasure"
+    },
+    {
+        "path": "data/loot_table/stronghold_corridor.json",
+        "name": "Stronghold Corridor",
+        "id": "stronghold_corridor"
+    },
+    {
+        "path": "data/loot_table/stronghold_crossing.json",
+        "name": "Stronghold Crossing",
+        "id": "stronghold_crossing"
+    },
+    {
+        "path": "data/loot_table/stronghold_library.json",
+        "name": "Stronghold Library",
+        "id": "stronghold_library"
+    },
+    {
+        "path": "data/loot_table/trial_chamber_corridor.json",
+        "name": "Trial Chamber Corridor",
+        "id": "trial_chamber_corridor"
+    },
+    {
+        "path": "data/loot_table/trial_chamber_intersection.json",
+        "name": "Trial Chamber Intersection",
+        "id": "trial_chamber_intersection"
+    },
+    {
+        "path": "data/loot_table/trial_chamber_intersection_barrel.json",
+        "name": "Trial Chamber Intersection Barrel",
+        "id": "trial_chamber_intersection_barrel"
+    },
+    {
+        "path": "data/loot_table/trial_chamber_ominous_vault.json",
+        "name": "Trial Chamber Ominous Vault",
+        "id": "trial_chamber_ominous_vault"
+    },
+    {
+        "path": "data/loot_table/trial_chamber_vault.json",
+        "name": "Trial Chamber Vault",
+        "id": "trial_chamber_vault"
+    },
+    {
+        "path": "data/loot_table/underwater_ruin_big.json",
+        "name": "Underwater Ruin Big",
+        "id": "underwater_ruin_big"
+    },
+    {
+        "path": "data/loot_table/underwater_ruin_small.json",
+        "name": "Underwater Ruin Small",
+        "id": "underwater_ruin_small"
+    },
+    {
+        "path": "data/loot_table/woodland_mansion.json",
+        "name": "Woodland Mansion",
+        "id": "woodland_mansion"
+    }
+]

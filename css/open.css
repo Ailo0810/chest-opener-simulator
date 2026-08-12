@@ -1,0 +1,40 @@
+.verticalContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    /* background-color: lightgrey; */
+    width: 500px;
+}
+
+#rewardDiv {
+    width: auto;
+    min-height: 160px;
+    justify-content: center;
+}
+
+.centeredText {
+    text-align: center;
+}
+
+#rollButton {
+    width: 95%;
+    height: 80px;
+    margin: 10px 2.5% 10px 2.5%;
+}
+
+#belowButton {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+table {
+    margin: 10px 0 10px 0;
+}
+table, th, td {
+    padding: 5px 10px 5px 10px;
+    text-align: left;
+    border: 1px solid;
+    border-collapse: collapse;
+}
