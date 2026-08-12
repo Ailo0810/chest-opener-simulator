@@ -39,6 +39,10 @@ table, th, td {
     border-collapse: collapse;
 }
 
+#poolDiv {
+    padding-bottom: 20px;
+}
+
 a {
     padding: 10px;
 }
