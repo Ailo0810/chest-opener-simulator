@@ -60,7 +60,8 @@ async function main() {
     rollButton.disabled = true;
     poolDiv.textContent = "";
     document.querySelector("#pObtained").textContent = "";
-    document.querySelector("#mainPageLink").textContent = "Go to main page";
+    document.querySelector("#reloadPageLink").textContent = "Open again";
+    document.querySelector("#mainPageLink").textContent = "Choose another chest";
 }
 
 main();
